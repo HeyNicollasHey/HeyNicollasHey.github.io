@@ -1,4 +1,4 @@
-/* Reset básico */
+
 * {
   margin: 0;
   padding: 0;
@@ -15,7 +15,7 @@ body {
   margin: auto;
 }
 
-/* Cabeçalhos */
+
 h1, h2, h3 {
   color: #3e3e3e;
   margin-top: 30px;
@@ -37,12 +37,11 @@ h2 {
   background-color: #eef0ee;
 }
 
-/* Parágrafos */
+
 p {
   margin-bottom: 15px;
 }
 
-/* Listas */
 ul {
   margin-left: 20px;
   margin-bottom: 20px;
@@ -52,7 +51,6 @@ ul li {
   margin-bottom: 10px;
 }
 
-/* Container principal */
 .privacy-policy {
   background-color: #ffffff;
   border: 1px solid #dedede;
@@ -61,7 +59,6 @@ ul li {
   box-shadow: 0 4px 10px rgba(0,0,0,0.05);
 }
 
-/* Destaques */
 strong {
   color: #444;
 }
@@ -73,7 +70,6 @@ code {
   border-radius: 4px;
 }
 
-/* Rodapé */
 .footer {
   margin-top: 40px;
   font-size: 0.9rem;
